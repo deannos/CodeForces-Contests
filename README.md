@@ -4,7 +4,7 @@
 
 
 <h1 align="center"> CodeForces-Contests Solutions 🧑‍💻</h1>
-<img align="right" alt="Coding" width="425" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDkyOTk5YTljN2EzMDUxOGU3NmZlMDg0MzA4NmE3YmFjODU3MDBlNyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDkyOTk5YTljN2EzMDUxOGU3NmZlMDg0MzA4NmE3YmFjODU3MDBlNyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deannos&label=Profile%20views&color=0e75b6&style=flat" alt="deannos" /> </p> 
