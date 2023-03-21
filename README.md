@@ -9,9 +9,8 @@
 <a href="https://codeforces.com/profile/DEANNOS"><img height="50" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a> 
 
 
-
-  
--    Hi there 👋 This repository contains :-
+<h3 align="left"> Hi there 👋 This repository contains 👎</h3>
+   
 -   👂 It's deannos! 
 -   💬 Ask me about Programming
 -   📫 Problems Solutions in cpp
@@ -20,9 +19,11 @@
 -   🧑‍💻 Solution.cpp available in C++11 / C++14 / C++17 / C++20 
 
   
-  
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amishjha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amishjha/" height="30" width="40" /></a>
 
+
+
+<p align="right">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/amishjha/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amishjha/" height="30" width="40" /></a>
+</p>
 
 
